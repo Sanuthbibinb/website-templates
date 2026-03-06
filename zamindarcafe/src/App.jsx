@@ -8,7 +8,7 @@ function App() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [activeCategory, setActiveCategory] = useState(menuCategories[0].id);
-  const phoneNumber = "919482211264";
+  const phoneNumber = "919676728598";
   const message = "Hello! I want to order.";
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
